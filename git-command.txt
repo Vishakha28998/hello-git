@@ -1,0 +1,5 @@
+git commands:- 
+1. git init:- It keeps track of all files base on the command that we use.
+2. git status:- it displays the state of the working directory and the stagging area .
+3. git add:- it adds all modified and new files in the current directory and all subdirectories to the next stagging area.
+4.git commit -m:- it puts your changes in local repository.
